@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cristian Cázares.
+My I'm Cristian.
 I'm a computer science student from Mexico.
 [![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianCazares&theme=nightowl)](https://github.com/CristianCazares/github-readme-stats)
 
