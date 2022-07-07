@@ -1,5 +1,4 @@
 ### [Check my temporal porfolio here!](https://cristiancazares.github.io/)
-I still working on it.
 
 ## Hi there 👋
 I'm Cristian, a computer science student from Mexico.
