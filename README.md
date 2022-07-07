@@ -1,6 +1,6 @@
-### [Check my temporal porfolio here!](https://cristiancazares.github.io/)
+## [Check my temporal porfolio here!](https://cristiancazares.github.io/)
 
-## Hi there 👋
+# Hi there 👋
 I'm Cristian, a computer science student from Mexico.
 I have experience working with Unity and Oculus, Python, C++ and Web Development.
 
