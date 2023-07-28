@@ -1,4 +1,4 @@
-# [Porfolio out now!](https://www.cristiancazares.com/)
+# [Portfolio out now!](https://www.cristiancazares.com/)
 
 # Hello there! 👋
 
