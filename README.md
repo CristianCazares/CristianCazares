@@ -1,4 +1,4 @@
-# [Check my temporal porfolio here!](https://cristiancazares.github.io/)
+# [Porfolio out now!](https://www.cristiancazares.com/)
 
 # Hello there! 👋
 
