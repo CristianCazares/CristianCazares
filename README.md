@@ -3,7 +3,14 @@
 <div style="display:flex;">
   <div style="flex:50%;">
     <h2 id="💫-about-me">💫 About Me:</h2>
-    <p>👨‍💻 I&#39;m a Computer Science student at Monterrey Institute of Technology and Higher Education.<br>💻 I love building great different forms of software for multiple platforms.<br>🔎 Looking for opportunities to contribute to exciting projects, grow, learn and collaborate with people in the industry.<br> 🛠 Experience working with <strong>IoT</strong>, <strong>Virtual</strong> and <strong>Augmented Reality</strong>, <strong>Web Development</strong> and <strong>Native apps</strong>.</p>
+    <p>
+    👨‍💻 I&#39;m a Computer Science student at Monterrey Institute of Technology and Higher Education with a <strong>minor on Artificial Intelligence</strong>.
+    <br>
+    💻 In love with building great different forms of software for multiple platforms.
+    <br>
+    🔎 Looking for opportunities to contribute to exciting projects, grow, learn and collaborate with people in the industry.
+    <br>
+    🛠 Experience working with <strong>AI<strong>, <strong>IoT</strong>, <strong>Virtual</strong> and <strong>Augmented Reality</strong>, <strong>Web Development</strong> and <strong>Native apps</strong>.</p>
   </div>
   <div style="flex:50%;">
     <h3 id="🌐-socials">🌐 Socials:</h3>
@@ -27,8 +34,7 @@
 
 ### - Databases
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### - Data analysis and AI
 
